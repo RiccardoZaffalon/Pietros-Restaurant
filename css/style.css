@@ -529,8 +529,10 @@ em, label {
 /* Layout */
 #scroll-top {
   color: #f04432;
-  font-weight: 700;
-  font-size: 2em;
+  font-family: Lato, "Open Sans", sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 1em;
   position: fixed;
   bottom: 2%;
   right: 10%;
